@@ -40,7 +40,8 @@ import TabControl from "components/content/tabControl/TabControl";
 import GoodList from "components/content/goods/GoodsList";
 import Scroll from "components/common/scroll/Scroll";
 // import BackTop from 'components/content/backTop/BackTop'
-// test hahahah
+// test 222222222222
+//test 33333
 
 import { getHomeMultidata, getHomeGoods } from "network/home";
 // import {debounce} from "common/utils";
